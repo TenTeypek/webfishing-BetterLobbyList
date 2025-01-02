@@ -1,0 +1,11 @@
+{
+  "Id": "TenTeypek.BetterLobbyList",
+  "AssemblyPath": "TenTeypek.BetterLobbyList.dll",
+  "PackPath": "TenTeypek.BetterLobbyList.pck",
+  "Metadata": {
+    "Name": "Better Lobby List",
+    "Author": "TenTeypek",
+    "Version": "1.0.0",
+    "Description": "Example mod description."
+  }
+}

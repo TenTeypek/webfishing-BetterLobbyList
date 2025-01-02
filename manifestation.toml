@@ -1,0 +1,15 @@
+id = "TenTeypek.BetterLobbyList"
+name = "Better Lobby List"
+description = "A mod that makes it easier to find the lobbies you want."
+version = "1.0.0"
+author = "TenTeypek"
+
+icon = "icon.png"
+readme = "README.md"
+
+[project]
+csharp = "./TenTeypek.BetterLobbyList/TenTeypek.BetterLobbyList.csproj"
+godot = "./project/project.godot"
+
+[[dependencies]]
+thunderstore_version = "NotNet-GDWeave-2.0.14"

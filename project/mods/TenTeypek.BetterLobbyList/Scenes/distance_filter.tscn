@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scenes/Singletons/Tooltips/tooltip_node.gd" type="Script" id=1]
+
+[node name="nearby_filter" type="Button"]
+margin_right = 12.0
+margin_bottom = 20.0
+text = "Worldwide"
+
+[node name="TooltipNode" type="Control" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+header = "Distance filter"
+body = "Set the physical distance for which the game should search for lobbies."
