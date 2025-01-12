@@ -5,6 +5,7 @@ A mod that makes it easier to find the lobbies you want.
 
 ## Features
 - Sort lobbies by distance, just like in versions prior to 1.11
+- Sort lobbies alphabetically
 - Toggle the filtering of swear words in lobby names with the chat filter settings
 - Filter lobbies by their physical distance
 
